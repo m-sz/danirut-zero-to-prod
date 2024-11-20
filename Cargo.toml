@@ -39,6 +39,7 @@ features = [
     "uuid",
     "chrono",
     "migrate",
+    "tls-rustls"
 ]
 
 [build-dependencies]
